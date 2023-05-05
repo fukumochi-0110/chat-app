@@ -44,5 +44,5 @@
 | room    | references | null: false, foreign_key: true |
 
 ### associations
-belomg_to :user
-belong_to :room
+- belong_to :user
+- belong_to :room
